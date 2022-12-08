@@ -1,0 +1,1 @@
+SELECT * FROM `my-test-dbt-data-engineering.Mysampledataset.MysampleTablename` where Ship_Mode = 'Second Class'
